@@ -6,4 +6,4 @@ I highly recommend anyone interested in general world statistics to test their k
 Source: [Gapminder](https://www.gapminder.org/)
 
 ## Setup
-To run locally, a docker image is provided. To build the image run from root of the project: ```docker build . -t gapminder-image``` later to run the container and link it to your local drive: ```docker run -it --name gapminder-container -v "%cd%:/usr/src/app/" gapminder-image```
+To run locally, a docker image is provided. To build the image run from root of the project: ```docker build . -t gapminder-image``` later to run the container and link it to your local drive: ```docker run -it --name gapminder-container -v "%cd%:/usr/src/app/" gapminder-image```. Any changes to files inside the container will be reflected in your local PC directory.
