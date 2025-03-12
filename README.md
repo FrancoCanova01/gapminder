@@ -4,3 +4,6 @@ Factfulness by Hans Rosling greatly challenged the world view I had at the time.
 I highly recommend anyone interested in general world statistics to test their knowledge by taking [this quiz](https://upgrader.gapminder.org/t/2017-gapminder-test?tab=q) which is the Gapminder 2017 Test. The test consists of 12 questions. The surprising thing is that most people get these questions wrong, with 80% of respondents scoring below random guessing!
 
 Source: [Gapminder](https://www.gapminder.org/)
+
+## Setup
+To run locally, a docker image is provided. To build the image run from root of the project: ```docker build . -t gapminder-image``` later to run the container and link it to your local drive: ```docker run -it --name gapminder-container -v "%cd%:/usr/src/app/" gapminder-image```
