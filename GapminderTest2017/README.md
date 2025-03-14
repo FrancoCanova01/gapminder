@@ -3,12 +3,9 @@
 ## 1) About the Test
 Gapminder Test 2017 is a misconception study carried out by Gapminder. In the study, a total of 12000 people accross 14 different countries were asked 12 questions related to world statistics. Each question has 3 possible answers and only one is correct. What this study found is that nearly **80% of respondents did less than random guessing**!
 
-Blow are the 12 questions. I suggest going over them to see how you do. Later go to the [Results](#results) section to view some statistics on the results of this test. If you want direct access to the results datasets refer to the notebook [gapminderTest2017.ipynb](./gapminderTest2017.ipynb).
+Follow the link blow where you'll find 12 questions. I suggest going over them to see how you do. Later go to the [Results](#results) section to view some statistics on the results of this test. If you want direct access to the results datasets refer to the notebook [gapminderTest2017.ipynb](./gapminderTest2017.ipynb).
 
-<iframe
-  src="https://upgrader.gapminder.org/t/2017-gapminder-test/2"
-  width="100%" height="500px" data-external="1"
-></iframe>
+[Gapminder Test 2017](https://upgrader.gapminder.org/t/2017-gapminder-test/2)
 
 ## 2) Results
 ### 2.1) Number of correct answers vs share of respondents
