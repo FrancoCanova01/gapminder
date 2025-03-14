@@ -5,7 +5,7 @@ Gapminder Test 2017 is a misconception study carried out by Gapminder. In the st
 
 Follow the link blow where you'll find 12 questions. I suggest going over them to see how you do. Later go to the [Results](#results) section to view some statistics on the results of this test. If you want direct access to the results datasets refer to the notebook [gapminderTest2017.ipynb](./gapminderTest2017.ipynb).
 
-[Gapminder Test 2017](https://upgrader.gapminder.org/t/2017-gapminder-test/2)
+:monkey: :monkey: :monkey: [Gapminder Test 2017](https://upgrader.gapminder.org/t/2017-gapminder-test/2) :monkey: :monkey: :monkey:
 
 ## 2) Results
 ### 2.1) Number of correct answers vs share of respondents
