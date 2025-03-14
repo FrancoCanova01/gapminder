@@ -7,7 +7,7 @@ Blow are the 12 questions. I suggest going over them to see how you do. Later go
 
 <iframe
   src="https://upgrader.gapminder.org/t/2017-gapminder-test/2"
-  style="width:100%; height:500px;"
+  width="100%" height="500px" data-external="1"
 ></iframe>
 
 ## 2) Results
